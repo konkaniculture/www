@@ -1,0 +1,49 @@
+---
+title: "Proposed Structure"
+author: "Vodlo Manga"
+output: html_document
+---
+
+_Last Updated: July 13th, 2017_
+
+Proposed: Data collection & display via Excel and R, R Studio based tools.
+
+_Last Updated: Dec 13rd, 2016_
+
+Master document.
+
+Master plan:
+Online web database to search information.
+
+Sub-cultures/communities:
+
+I) SubCulture1:
+
+Aspects of culture1:
+
+birth ~ traditional children's songs, naming
+youth ~ communion
+roce ~ hymns, rituals
+wedding ~
+marriage
+community
+festivals ~ harvest, Mother Mary, Christmas, Kuswar.
+death ~ procedure, hymns, songs
+
+Aspects of culture2:
+
+* Sayings/Proverbs
+* Nicknames of Formal Names:
+* Picture Dictionary
+* Comprehensive Grammar
+* Audio/Video course of language and grammar.
+* Genres of music and musicians
+* Genres of plays, songs
+* Lullabies, children songs,
+* Traditional and old recipes, dishes for festivals, preparation and photographs.
+
+
+II) SubCulture2:
+
+similar to SubCulture1.
+

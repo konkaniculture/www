@@ -40,7 +40,7 @@ Forms teams of common expertise and start the process of data, information colle
 Archives to be of paper form, digital form, various forms of multimedia i.e. photos, videos, audio. Storage of cultural material in academic institutions, museums and website for universal access.
 
 
-### Updates: [Proposed Structure](/proposed-structure)
+### Updates: [Project Structure Proposal](/project-structure)
 
 Mon, Sept 11th 2017: Added list of advanced image, audio recognition projects to proposed structure document to supplement main goals.
 

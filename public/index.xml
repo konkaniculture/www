@@ -6,10 +6,30 @@
     <description>Recent content in Home on Konkani Culture</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Literature</title>
+      <link>/literature/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/literature/</guid>
+      <description> News articles: 2017  Konkani: a language in crisis livemint.com Konkani vs. Marathi language battles in Goa livemint.com Oh Konkani, my sweet mother tongue thequint.com  </description>
+    </item>
+    
+    <item>
+      <title>Project Structure</title>
+      <link>/project-structure/</link>
+      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project-structure/</guid>
+      <description>Last Updated: Sep 11th 2017
+With the advent of cloud machine learning systems, it is proposed to use these technologies to assist and speed up the work associated with the main goals.
+ Optical Character Recognition (OCR) of any Konkani dialect script (Kannada, Roman, Marathi) text into its Unicode text form. Translate any Konkani dialect in Unicode Form into English and vice-versa. (requires grammar analysis) Create a audio reader for text in any dialect.</description>
+    </item>
     
     <item>
       <title>Test Post for Blogdown</title>
@@ -31,23 +51,6 @@ When you click the Knit button a document will be generated that includes both c
       <description>Summary: Nov 14th 2016: To create a detailed and comprehensive record of the Konkani culture and preserve it digitally and in archives in institutions all over the world. The situation:
 This is the beginning of the end.
  Lack of motivation among parents to teach their children the Konkani language and history has lead to a stage where there are not enough people to take Konkani culture to the next generation.</description>
-    </item>
-    
-    <item>
-      <title>Proposed Structure</title>
-      <link>/proposed-structure/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/proposed-structure/</guid>
-      <description>Last Updated: July 13th, 2017
-Proposed: Data collection &amp;amp; display via Excel and R, R Studio based tools.
-Last Updated: Dec 13rd, 2016
-Master document.
-Master plan: Online web database to search information.
-Sub-cultures/communities:
-SubCulture1:Aspects of culture1:
-birth ~ traditional children’s songs, naming youth ~ communion roce ~ hymns, rituals wedding ~ marriage community festivals ~ harvest, Mother Mary, Christmas, Kuswar. death ~ procedure, hymns, songs
-Aspects of culture2:</description>
     </item>
     
   </channel>

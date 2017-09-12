@@ -26,7 +26,7 @@ A hundred years from now, when people come across the word Konkani, let there be
 
 ### Contribute:
 
-This is a long term project. We live in an age where attention span is ever decreasing. Welcome any person, groups willing to contribute.
+This is a long term project. We live in an age where attention span is ever decreasing. We welcome any person, groups willing to contribute.
 
 People with academic knowledge of Konkani language, educators, translators, culture and history. Konkani speakers, authors, writers, musicians, orators, comedians, film makers, artists.
 
@@ -42,7 +42,9 @@ Archives to be of paper form, digital form, various forms of multimedia i.e. pho
 
 ### Updates: [Proposed Structure](/proposed-structure)
 
-Thu, July 13th 2017: Moving source code to github
+Mon, Sept 11th 2017: Added list of advanced image, audio recognition projects to proposed structure document to supplement main goals.
+
+Thu, July 13th 2017: Moving website source code to github
 
 Wed, July 12th 2017: Changing software to `blogdown()` R and RStudio environment. 
 

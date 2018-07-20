@@ -38,4 +38,4 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = "&copy; [Konkani Culture](https://konkaniculture.org/) 2016-2017 | [Github](https://github.com/konkaniculture/www/) | [Twitter](https://twitter.com/konkaniculture/)"
+    footer = "&copy; [Konkani Culture](https://konkaniculture.org/) 2016-2018 | [Github](https://github.com/konkaniculture/www/) | [Twitter](https://twitter.com/konkaniculture/)"
